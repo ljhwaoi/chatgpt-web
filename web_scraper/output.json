@@ -1,0 +1,1 @@
+The "web_scraper/output.json" file is the output file where the scraped data will be stored in JSON format. This file will be created and written to by the Scrapy pipeline during the scraping process. Initially, this file will be empty until the scraping process is run. Therefore, no initial code is required for this file.
